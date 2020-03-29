@@ -18,14 +18,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Be The Hero is a test project with a simple idea, Help ONGs in your incidents.
+Be The Hero is a test project with a simple idea, Help NGOs in your incidents.
 
-Basically all the ONGs can create an account using the Website, and then register your incidents.
-To be connected with the ONGs, users can download an APP on Play Store or Google Play, and then see all the registered incidents. 
+Basically all the NGOs can create an account using the Website, and then register your incidents.
+To be connected with the NGOs, users can download an APP on Play Store or Google Play, and then see all the registered incidents. 
 
-If the users feel comfortable to help any case, he can contact a ONG to make a donnation.
-
-
+If the users feel comfortable to help any case, it's possible to contact a NGO to make a donnation.
 
 ### Built With
 
@@ -98,4 +96,4 @@ Project Link: [https://github.com/bylucasxdx/omnistack-week-11](https://github.c
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lucassmedeiros
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: .github/desktop.gif
