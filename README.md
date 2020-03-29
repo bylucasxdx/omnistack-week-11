@@ -1,6 +1,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/87ba46eadf45c9c8526d)
+
+<p align="center">
+  <a href="https://app.getpostman.com/run-collection/87ba46eadf45c9c8526d" target="_blank"><img src="https://run.pstmn.io/button.svg" alt="Run in Postman"></a>
+</p>
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
