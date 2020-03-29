@@ -1,7 +1,5 @@
-<p align="center">
-  [![Stargazers][stars-shield]][stars-url]
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
+[![Stargazers][stars-shield]][stars-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
   <a href="https://app.getpostman.com/run-collection/87ba46eadf45c9c8526d" target="_blank"><img src="https://run.pstmn.io/button.svg" alt="Run in Postman"></a>
