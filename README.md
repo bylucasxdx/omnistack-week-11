@@ -63,9 +63,18 @@ cd omnistack-week-11/backend
 npm install
 
 # Run Migrates
-npm knex migrate:latest 
+npx knex migrate:latest 
 
 # Run the API
+npm start
+
+# Go to frontend folder
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Run frontend
 npm start
 ```
 
